@@ -6,8 +6,11 @@ This project is an interactive Business Intelligence dashboard designed to analy
 **Author**: Prashant Sharma  
 **Tools Used**: Power BI, SQL, Relational Data Modeling, Excel  
 **Dataset**: E-commerce Orders and Transaction Details.
+
 📊 Dashboard Preview (Q3 Performance)
 The view below is filtered specifically for Quarter 3 (Q3) performance, demonstrating the dashboard's time-intelligence capabilities.
+
+![Ecommerce Dashboard](Dashboard/Ecommerce_Dashboard.png)
 
 💡 Key Business Findings (Based on Q3 Analysis)
 By analyzing the third quarter (July, August, September), several critical insights were uncovered:
